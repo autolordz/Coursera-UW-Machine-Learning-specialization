@@ -6,41 +6,45 @@ Partial notes can be found in my blog [SSQ](https://ssq.github.io/2017/08/19/Cou
 
 ## 1. Machine Learning Foundations: A Case Study Approach
 Course can be found in [Coursera](https://www.coursera.org/learn/ml-foundations)
-<table>
-  <tr>
-    <th>Programming Assignments</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>
-          [x] <a href="https://github.com/SSQ/Coursera-UW-Machine-Learning-Foundations-A-Case-Study-Approach/tree/master/Programming%20Assignment%201">Familiar with Ipython notebook and Sframe</a>
-        </li>
-        <li>
-          [x] <a href="https://github.com/SSQ/Coursera-UW-Machine-Learning-Foundations-A-Case-Study-Approach/tree/master/Programming%20Assignment%202">Implement Linear Regression model with different several features</a>
-        </li>
-        <li>
-          [x] <a href="https://github.com/SSQ/Coursera-UW-Machine-Learning-Foundations-A-Case-Study-Approach/tree/master/Programming%20Assignment%203">Implement Logistic Regression model with different several features</a>
-        </li>
-        <li>
-          [x] <a href="https://github.com/SSQ/Coursera-UW-Machine-Learning-Foundations-A-Case-Study-Approach/tree/master/Week%204%20PA%201">Retrieving Wikipedia articles</a>
-        </li>
-        <li>
-          [x] <a href="https://github.com/SSQ/Coursera-UW-Machine-Learning-Foundations-A-Case-Study-Approach/tree/master/Week%205%20PA%201">Recommending songs</a>
-        </li>
-        <li>
-          [x] <a href="https://github.com/SSQ/Coursera-UW-Machine-Learning-Foundations-A-Case-Study-Approach/tree/master/Week%206%20PA%201">Deep Features for Image Classification</a>
-        </li>
-        <li>
-          [x] <a href="https://github.com/SSQ/Coursera-UW-Machine-Learning-Foundations-A-Case-Study-Approach/tree/master/Week%206%20PA%202">Deep Features for Image Retrieval</a>
-        </li>
-        <li>
-          [x] <a href="https://github.com/SSQ/Coursera-UW-Machine-Learning-Foundations-A-Case-Study-Approach/tree/master/Week%206%20PA%203">Deep Features for Image Retrieval Answers</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+|Description|Programming Assignments|
+|--- |--- |
+|Models
+          Linear regressionRegularization: Ridge (L2), Lasso (L1)Nearest neighbor and kernel regression
+        
+        
+          Algorithms
+          Gradient descentCoordinate descent
+        
+        
+          Concepts
+          Loss functions, bias-variance tradeoffcross-validation, sparsity, overfittingmodel selection, feature selection|Models|Linear regressionRegularization: Ridge (L2), Lasso (L1)Nearest neighbor and kernel regression|Algorithms|Gradient descentCoordinate descent|Concepts|Loss functions, bias-variance tradeoffcross-validation, sparsity, overfittingmodel selection, feature selection|[x] Fitting a simple linear regression model on housing data
+        
+        
+          [x] Exploring different multiple regression models for house price prediction
+        
+        
+          [x] Implementing gradient descent for multiple regression
+        
+        
+          [x] Exploring the bias-variance tradeoff
+        
+        
+          [x] Observing effects of L2 penalty in polynomial regression
+        
+        
+          [x] Implementing ridge regression via gradient descent
+        
+        
+          [x] Using LASSO to select features
+        
+        
+          [x] Implementing LASSO using coordinate descent
+        
+        
+          [x] Predicting house prices using k-nearest neighbors regression|
+|Models|Linear regressionRegularization: Ridge (L2), Lasso (L1)Nearest neighbor and kernel regression|
+|Algorithms|Gradient descentCoordinate descent|
+|Concepts|Loss functions, bias-variance tradeoffcross-validation, sparsity, overfittingmodel selection, feature selection|
 
 Slides and more details about this course can be found in my Github [SSQ](https://github.com/SSQ/Coursera-UW-Machine-Learning-Foundations-A-Case-Study-Approach)
   
